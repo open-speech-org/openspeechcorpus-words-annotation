@@ -19,7 +19,8 @@ All the annotations will use this phonetic dictionary
 |j|j consonant approximant palatal|
 |l|l consonant approximant alveolar|
 |m|m consonant nasal bilabial|
-|n|n consonant nasal labiodental|
+|n|n consonant nasal alveolar|
+|N|ñ consonant nasal palatal|
 |o|o vocal semi-closed back|
 |p|p consonant plosive|
 |R|r consonant vibrant alveolar|
@@ -27,4 +28,4 @@ All the annotations will use this phonetic dictionary
 |s|s consonant fricative alveolar|
 |t|t consonant plosive dental|
 |u|u vocal closed back|
-|y|y consonant fricative labiodental|
+|y|y consonant fricative palatal|
