@@ -9,12 +9,12 @@ All the annotations will use this phonetic dictionary
 |-|-|
 |sil|Silence|
 |a|a vocal open central|
-|b|b consonant plosive bilabial|
-|k|c consonant plosive palatal|
-|d|d consonant plosive dental|
+|b|b consonant plosive bilabial voiced|
+|k|c consonant plosive palatal voiceless|
+|d|d consonant plosive dental voiced|
 |e|e vocal semi-open central|
 |f|f consonant fricative labiodental|
-|g|g consonant plosive velar|
+|g|g consonant plosive velar voiced|
 |i|i vocal closed front|
 |j|j consonant approximant palatal|
 |l|l consonant approximant alveolar|
@@ -22,10 +22,10 @@ All the annotations will use this phonetic dictionary
 |n|n consonant nasal alveolar|
 |N|ñ consonant nasal palatal|
 |o|o vocal semi-closed back|
-|p|p consonant plosive|
-|R|r consonant vibrant alveolar|
-|r|r consonant plosive alveolar|
+|p|p consonant plosive voiceless|
+|R|r consonant vibrant alveolar voiced|
+|r|r consonant vibrant alveolar voiceless|
 |s|s consonant fricative alveolar|
-|t|t consonant plosive dental|
+|t|t consonant plosive dental voiceless|
 |u|u vocal closed back|
 |y|y consonant fricative palatal|
