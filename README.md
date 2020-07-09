@@ -11,6 +11,7 @@ All the annotations will use this phonetic dictionary
 |a|a vocal open central|
 |b|b consonant plosive bilabial voiced|
 |k|c consonant plosive palatal voiceless|
+|S|ch consonant fricative palatal|
 |d|d consonant plosive dental voiced|
 |e|e vocal semi-open central|
 |f|f consonant fricative labiodental|
